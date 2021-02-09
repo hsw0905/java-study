@@ -9,8 +9,6 @@
 - 내용은 본인이 이해한대로 다시 적어야 한다
 - 다른 사람의 과제 해결 내용을 볼 것 (서로 공부한 깊이가 다 다르다)
 
-- [JVM](https://media.geeksforgeeks.org/wp-content/uploads/jvm-3.jpg) (출처: geeksforgeeks)
-
 #### JVM이란 무엇인가
 
 - Java Virtual Machine
